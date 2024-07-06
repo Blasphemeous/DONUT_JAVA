@@ -1,9 +1,9 @@
 # DONUT_JAVA
 A simple rotating donut written in Java programming language. 
 
-##Requirements
+##Requirements#
 •Windows 10++
 •JDK++
 
-###Reference
+###Reference##
 ***https://gist.github.com/gcr/1075131***
