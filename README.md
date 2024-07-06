@@ -3,6 +3,7 @@ A simple rotating donut written in Java programming language.
 
 ## Requirements
 • Windows 10++
+
 • JDK++
 
 ### Reference
